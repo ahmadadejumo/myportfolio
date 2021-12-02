@@ -38,3 +38,15 @@
   object-fit: cover;
   background-color: whitesmoke;
 }
+
+.a-title {
+  font-weight: 400;
+}
+
+.a-sub {
+  margin: 20px 0px;
+}
+
+.a-desc {
+  font-weight: 300px;
+}
