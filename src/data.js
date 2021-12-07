@@ -1,7 +1,9 @@
+import hulu from "../src/img/hulu.png";
+
 export const products = [
   {
     id: 1,
-    img: "https://www.linkpicture.com/q/gpt3.png",
+    img: "https://i.ibb.co/8Bp3Jhf/gpt3-png.png",
     link: "https://gpt3-nft.netlify.app/",
   },
   {
@@ -11,22 +13,22 @@ export const products = [
   },
   {
     id: 3,
-    img: "https://www.linkpicture.com/q/gpt3.png",
-    link: "https://gpt3-nft.netlify.app/",
+    img: "https://i.ibb.co/9pMprNf/hulu-png.png",
+    link: "https://hulu-clone-lemon-two.vercel.app/",
   },
   {
     id: 4,
-    img: "https://www.linkpicture.com/q/screencapture-ahmad-blog-herokuapp-2021-12-02-14_23_04.png",
-    link: "https://ahmad-blog.herokuapp.com/",
-  },
-  {
-    id: 5,
-    img: "https://www.linkpicture.com/q/gpt3.png",
+    img: "https://i.ibb.co/8Bp3Jhf/gpt3-png.png",
     link: "https://gpt3-nft.netlify.app/",
   },
   {
-    id: 6,
+    id: 5,
     img: "https://www.linkpicture.com/q/screencapture-ahmad-blog-herokuapp-2021-12-02-14_23_04.png",
     link: "https://ahmad-blog.herokuapp.com/",
+  },
+  {
+    id: 6,
+    img: "https://i.ibb.co/9pMprNf/hulu-png.png",
+    link: "https://hulu-clone-lemon-two.vercel.app/",
   },
 ];
