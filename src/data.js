@@ -1,5 +1,3 @@
-import hulu from "../src/img/hulu.png";
-
 export const products = [
   {
     id: 1,
